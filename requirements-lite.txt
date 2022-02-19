@@ -1,0 +1,4 @@
+icepickle
+datasets
+memo==0.2.3
+hiplot
